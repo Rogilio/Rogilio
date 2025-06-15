@@ -25,6 +25,9 @@ Me gusta **documentar**, **automatizar** y **asegurar** cada entorno que toco.
 ![Metasploit](https://img.shields.io/badge/Metasploit-430098?style=flat)
 ![Hydra](https://img.shields.io/badge/Hydra-444444?style=flat)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-network%20scanner-004488?style=flat&logo=gnometerminal&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-web%20scanner-darkred?style=flat&logo=apache&logoColor=white)
+![BurpSuite](https://img.shields.io/badge/Burp_Suite-web%20security-orange?style=flat&logo=bugatti&logoColor=white)
 
 ### ☁️ Virtualización & Redes
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat)
@@ -32,6 +35,9 @@ Me gusta **documentar**, **automatizar** y **asegurar** cada entorno que toco.
 ![pfSense](https://img.shields.io/badge/pfSense-233C79?style=flat)
 ![Mikrotik](https://img.shields.io/badge/Mikrotik-800000?style=flat)
 ![Ubuntu Server](https://img.shields.io/badge/Ubuntu-Server-E95420?logo=ubuntu&logoColor=white&style=flat)
+![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white&style=flat)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-1f1f1f?style=flat&logo=linux&logoColor=cyan)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat&logo=windows&logoColor=white)
 
 ### 🐳 Contenedores & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
@@ -45,18 +51,15 @@ Me gusta **documentar**, **automatizar** y **asegurar** cada entorno que toco.
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
-
----
-
-## 📊 Estadísticas GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rogilio&show_icons=true&theme=radical&hide_title=false&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rogilio&layout=compact&theme=radical&hide_border=true)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
 ## 📂 Repositorios Destacados
 
+📄 [Auditoría y gestión](https://github.com/Rogilio/Auditorias)
 🔐 [Seguridad en Servicios](https://github.com/Rogilio/SeguridadServicios)  
 💻 [Hardening y Análisis de Vulnerabilidades](https://github.com/Rogilio/Hardening)  
 ☁️ [Virtualización y Cloud Computing](https://github.com/Rogilio/CloudComputing)  
