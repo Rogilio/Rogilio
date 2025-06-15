@@ -1,8 +1,8 @@
 # 👋 ¡Hola! Soy Rogelio Cristian Punzo Castro  
 🎓 **Ingeniero en Sistemas Computacionales** | 🛡️ **Especialidad en Ciberseguridad**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/rogelio-punzo)
-[![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?logo=github&style=flat-square)](https://github.com/rogelio-cpc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](www.linkedin.com/in/rcpc00)
+[![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?logo=github&style=flat-square)](https://github.com/Rogilio)
 ![Status](https://img.shields.io/badge/Estatus-Disponible_para_prácticas-green?style=flat-square)
 ![Location](https://img.shields.io/badge/Ubicación-México-lightgrey?style=flat-square)
 
@@ -50,17 +50,17 @@ Me gusta **documentar**, **automatizar** y **asegurar** cada entorno que toco.
 
 ## 📊 Estadísticas GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rogelio-cpc&show_icons=true&theme=radical&hide_title=false&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogelio-cpc&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rogilio&show_icons=true&theme=radical&hide_title=false&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rogilio&layout=compact&theme=radical&hide_border=true)
 
 ---
 
 ## 📂 Repositorios Destacados
 
-🔐 [Seguridad en Servicios](https://github.com/rogelio-cpc/seguridad-servicios)  
-💻 [Hardening y Análisis de Vulnerabilidades](https://github.com/rogelio-cpc/hardening-vulnerabilidades)  
-☁️ [Virtualización y Cloud Computing](https://github.com/rogelio-cpc/virtualizacion-nube)  
-🎮 [IA en Videojuegos - Phaser Game AI](https://github.com/rogelio-cpc/juego-ml-2025)
+🔐 [Seguridad en Servicios](https://github.com/Rogilio/SeguridadServicios)  
+💻 [Hardening y Análisis de Vulnerabilidades](https://github.com/Rogilio/Hardening)  
+☁️ [Virtualización y Cloud Computing](https://github.com/Rogilio/CloudComputin)  
+🎮 [IA en Videojuegos - Phaser Game AI](https://github.com/Rogilio/IA-2025)
 
 ---
 
