@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Rogelio Cristian Punzo Castro  
 🎓 **Ingeniero en Sistemas Computacionales** | 🛡️ **Especialidad en Ciberseguridad**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](www.linkedin.com/in/rcpc00)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/rcpc00)
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?logo=github&style=flat-square)](https://github.com/Rogilio)
 ![Status](https://img.shields.io/badge/Estatus-Disponible_para_prácticas-green?style=flat-square)
 ![Location](https://img.shields.io/badge/Ubicación-México-lightgrey?style=flat-square)
@@ -59,8 +59,8 @@ Me gusta **documentar**, **automatizar** y **asegurar** cada entorno que toco.
 
 🔐 [Seguridad en Servicios](https://github.com/Rogilio/SeguridadServicios)  
 💻 [Hardening y Análisis de Vulnerabilidades](https://github.com/Rogilio/Hardening)  
-☁️ [Virtualización y Cloud Computing](https://github.com/Rogilio/CloudComputin)  
-🎮 [IA en Videojuegos - Phaser Game AI](https://github.com/Rogilio/IA-2025)
+☁️ [Virtualización y Cloud Computing](https://github.com/Rogilio/CloudComputing)  
+🤖 [Inteligencia Artificial](https://github.com/Rogilio/IA-2025)
 
 ---
 
@@ -72,5 +72,5 @@ Me gusta **documentar**, **automatizar** y **asegurar** cada entorno que toco.
 
 ## 📬 Contacto
 
-📫 **LinkedIn:** [linkedin.com/in/rogelio-punzo](www.linkedin.com/in/rcpc00)  
+📫 **LinkedIn:** [linkedin.com/in/rcpc00](https://www.linkedin.com/in/rcpc00)  
 📁 Puedes ver más de mis proyectos en los repos públicos de este perfil.  
